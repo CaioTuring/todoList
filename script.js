@@ -69,4 +69,5 @@ const clickItem = (evento) => {
 document.getElementById('newItem').addEventListener('keypress', inserirItem);
 document.getElementById('todoList').addEventListener('click', clickItem);
 
+
 atualizarTela();
